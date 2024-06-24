@@ -1,0 +1,17 @@
+.contribute {
+  padding: 20px;
+  background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%);
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contribute h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.contribute p {
+  font-size: 1.2em;
+}

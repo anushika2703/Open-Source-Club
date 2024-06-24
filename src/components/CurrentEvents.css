@@ -1,0 +1,28 @@
+.current-events {
+  padding: 20px;
+  background: linear-gradient(45deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 300px; /* Set a fixed height to ensure both sections are of the same height */
+  margin: 0; /* Remove margin to reduce space */
+  width: 100%; /* Adjust width to fill available space */
+}
+
+.current-events h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.current-events ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.current-events li {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
