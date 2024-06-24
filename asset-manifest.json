@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//anushika2703.github.io//Open-Source-Club/static/css/main.47251b91.css",
-    "main.js": "/http//anushika2703.github.io//Open-Source-Club/static/js/main.f2d3eea8.js",
-    "static/js/453.90d16294.chunk.js": "/http//anushika2703.github.io//Open-Source-Club/static/js/453.90d16294.chunk.js",
-    "index.html": "/http//anushika2703.github.io//Open-Source-Club/index.html",
-    "main.47251b91.css.map": "/http//anushika2703.github.io//Open-Source-Club/static/css/main.47251b91.css.map",
-    "main.f2d3eea8.js.map": "/http//anushika2703.github.io//Open-Source-Club/static/js/main.f2d3eea8.js.map",
-    "453.90d16294.chunk.js.map": "/http//anushika2703.github.io//Open-Source-Club/static/js/453.90d16294.chunk.js.map"
+    "main.css": "/Open-Source-Club/static/css/main.47251b91.css",
+    "main.js": "/Open-Source-Club/static/js/main.fd5e2513.js",
+    "static/js/453.90d16294.chunk.js": "/Open-Source-Club/static/js/453.90d16294.chunk.js",
+    "index.html": "/Open-Source-Club/index.html",
+    "main.47251b91.css.map": "/Open-Source-Club/static/css/main.47251b91.css.map",
+    "main.fd5e2513.js.map": "/Open-Source-Club/static/js/main.fd5e2513.js.map",
+    "453.90d16294.chunk.js.map": "/Open-Source-Club/static/js/453.90d16294.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47251b91.css",
-    "static/js/main.f2d3eea8.js"
+    "static/js/main.fd5e2513.js"
   ]
 }
